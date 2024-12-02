@@ -1,1 +1,41 @@
-
+{
+  "@context": "https://schema.org",
+  "@type": "softwareCompany",
+  "name": "Pixel Pulse",
+  "url": "https://www.pixpulsed.com",
+  "logo": "/images/PixelPulselogo2.png",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+25678454419",
+    "contactType": "Customer Service",
+    "areaServed": "UG",
+    "availableLanguage": "English"
+  },
+  "sameAs": [
+    "https://www.facebook.com/profile.php?id=100083623573584",
+  ],
+  "founder": [
+    {
+      "@type": "Person",
+      "name": "Johnson Achuk",
+      "jobTitle": "CEO & Co-Founder",
+      "image": "/images/Achuk.png",
+      "sameAs": "https://www.facebook.com/achuk.johnson",
+      "worksFor": {
+        "@type": "softwareCompany",
+        "name": "Pixel Pulse"
+      }
+    },
+    {
+      "@type": "Person",
+      "name": "Biar Thon",
+      "jobTitle": "CTO & Co-Founder",
+      "image": "/images/Biar.jpg",
+      "sameAs": "https://www.facebook.com/profile.php?id=61558043156077",
+      "worksFor": {
+        "@type": "softwareCompany",
+        "name": "Pixel Pulse"
+      }
+    }
+  ]
+}
