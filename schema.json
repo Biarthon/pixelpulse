@@ -6,14 +6,12 @@
   "logo": "/images/PixelPulselogo2.png",
   "contactPoint": {
     "@type": "ContactPoint",
-    "telephone": "+25678454419",
+    "telephone": "+256784544119",
     "contactType": "Customer Service",
     "areaServed": "UG",
     "availableLanguage": "English"
   },
-  "sameAs": [
-    "https://www.facebook.com/profile.php?id=100083623573584",
-  ],
+  "sameAs": ["https://www.facebook.com/pixelpulse0"],
   "founder": [
     {
       "@type": "Person",

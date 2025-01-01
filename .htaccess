@@ -1,1 +1,5 @@
+<Files "404.html">
+    Require all denied
+</Files>
+
 ErrorDocument 404 /404.html
